@@ -1,6 +1,4 @@
----
-title: Filesystems
----
+% Filesystems
 
 Disk-based filesystems
 ======================
